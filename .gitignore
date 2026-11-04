@@ -1,0 +1,293 @@
+## Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]*64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio cache/options directory
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build logs
+*.log
+
+## Runtime files
+*.dll
+!*.exe
+*.pdb
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+**/[Pp]ackages/*
+**/[Pp]ackages/*
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider
+.idea/
+
+## User-specific files
+*.rsuser
+*.sln.docstates
+
+# Build results
+*.binlog
+*.dll
+!*.exe
+*.cache
+*.deps.json
+*.json
+*.pdb
+*.pgc
+*.pgc2
+*.rsp
+*.suo
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Trace Files
+*.e2e
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# AxoCover is a Code Coverage Tool
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet is a free, cross platform Code Coverage Tool
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Visual Studio code coverage
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+*.css
+
+# Install all the required NuGet packages as packages using NuGet
+# NuGet v3's project.json format is deprecated. See http://go.microsoft.com/fwlink/?LinkID=2031802
+# Uncomment if necessary however generally it will not be needed as MSBuild is used instead.
+#!**/*.csprojnuget.g.props
+#!**/*.csproj.nuget.g.targets
+NuGet.targets
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Visual Studio cache/options directory
+.vs/
+# Uncomment if you have tasks that use these
+#*.vssscc
+#*.vso
+
+# Visual Studio profile
+*.vsp
+*.vspx
+profiles/
+
+# Visual Studio code profiling
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio trace files
+*.e2e
+
+# Visual Studio 2017 auto generated code
+Generated\ Files/
+
+# MSTest test files
+TestResult*/
+*.coverage
+*.coveragexml
+*.coveragerc
+
+# NUnit
+*.VisualState.xml
+TestResult/
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]*64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have tasks that use these
+#*.vssscc
+#*.vso
+
+# Visual Studio 2017 auto generated code
+Generated\ Files/
+
+# MSTest test files
+TestResult*/
+*.coverage
+*.coveragexml
+*.coveragerc
+
+# NUnit
+*.VisualState.xml
+TestResult/
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]*64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio profiler
+*Coverage*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+**/appsettings.Development.json
+**/Properties/launchSettings.json
+
+# Microsoft Azure Web App publish settings
+*.azurePubxml
+# Note: Comment the next line if you want to validate the publish settings during CI/CD
+#publish.xml
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+
+# Uncomment if necessary however generally it will not be needed as MSBuild is used instead
+#!**/*.csproj
+#*.nuget.props
+#*.nuget.targets
+# NuGet v3's project.json format is deprecated. See http://go.microsoft.com/fwlink/?LinkID=2031802
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator for Windows Container
+azd/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio 2017 auto generated code
+Generated\ Files/
+
+# MSTest test files
+TestResult*/
+*.coverage
+*.coveragexml
+*.coveragerc
+
+# NUnit
+*.VisualState.xml
+TestResult/
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]*64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
